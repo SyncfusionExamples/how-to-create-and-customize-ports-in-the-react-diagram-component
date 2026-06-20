@@ -1,5 +1,5 @@
 # How to Create and Customize Ports in the React Diagram Component
-A quick-start React app that shows how to create and customize ports in the React Diagram Component. It explains how to create ports programmatically and add, remove, and update ports at run time using an external button click.
+A quick-start React app that shows how to create and customize ports in the [React Diagram](https://www.syncfusion.com/react-components/react-diagram) Component. It explains how to create ports programmatically and add, remove, and update ports at run time using an external button click.
 
 Documentation: [https://ej2.syncfusion.com/react/documentation/diagram/getting-started#dependencies](https://ej2.syncfusion.com/react/documentation/diagram/nodes)
 
